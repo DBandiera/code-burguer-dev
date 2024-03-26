@@ -1,3 +1,11 @@
+<h1> Projeto Code Burguer </h1>
+
+<h3>Colocando as habilidades adquiridas em React, Js, HTML, CSS, Flexbox e Node.</h3>
+<p>Desenvolvimento de single page do a bsoluto zero com rotas e api criadas em Node para envio e acesso de pedidos</p>
+
+<img src="https://github.com/DBandiera/code-burguer-dev/blob/master/src/assets/Tela_Inicial.png?raw=true" />
+<img src="https://github.com/DBandiera/code-burguer-dev/blob/master/src/assets/Tela_Pedidos.png?raw=true" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
